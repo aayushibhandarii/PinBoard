@@ -33,8 +33,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bookmark-manager.git
-   cd bookmark-manager
+   git clone [https://github.com/aayushibhandarii/PinBoard.git](https://github.com/aayushibhandarii/PinBoard.git)
+   cd PinBoard
 
 ## Install dependencies:
 
