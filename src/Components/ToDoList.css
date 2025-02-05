@@ -1,0 +1,42 @@
+.toDoList{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: start;
+}
+.toDoList > section{
+    margin: 20px;
+}
+.list-side{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 85vh;
+}
+.list-item{
+    display: flex;
+    flex-direction: column;
+}
+.list-item >button{
+    border: none;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    height: 40px;
+}
+.item-add > input ,.item-add > div{
+    margin: 10px;
+    border: none;
+    outline: none;
+    caret-color: #f6a259 !important;
+}
+.active{
+    background-color: #f6a259;
+    color: white;
+}
+.text-style > span{
+    margin: 2px 10px ;
+}
+.text-style{
+    max-width: 500px;
+}
