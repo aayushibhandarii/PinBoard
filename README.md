@@ -36,12 +36,12 @@ Ensure you have the following installed:
    git clone https://github.com/your-username/bookmark-manager.git
    cd bookmark-manager
 
-#### Install dependencies:
+## Install dependencies:
 
 bash
    npm install
 
-#### Set up environment variables:
+## Set up environment variables:
 
 Create a .env file in the root directory.
 
@@ -51,14 +51,14 @@ bash
 
    > 🚨 Keep your secrets safe. Never share the .env file!
 
-####Start the development server:
+## Start the development server:
 
 bash
   node index.js
 
 Visit: [http://localhost:3000](http://localhost:3000) in your browser.
 
-#### Contribution Guidelines
+## Contribution Guidelines
 
 Fork the repository.
 
@@ -70,7 +70,7 @@ Push to your forked repo.
 
 Open a Pull Request for review.
 
-#### Contact
+## Contact
 
 For any questions or suggestions, feel free to reach out:
 
